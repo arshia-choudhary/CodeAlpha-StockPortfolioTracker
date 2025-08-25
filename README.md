@@ -6,18 +6,13 @@ A beginner-friendly Python project to simulate stock investments.
 Users can choose stocks, enter quantity, and the program calculates total investment.  
 It also saves a detailed summary into `in_rslt.txt`.
 
----
-
 ## 🚀 Features
 - Shows available stocks with prices  
 - Calculates cost per purchase and total investment  
 - Saves summary to file  
 - Handles invalid inputs gracefully  
 
----
-
-## ▶️ How to Run
-1. Clone or download this repo.  
-2. Run the script:  
-   ```bash
-   python tracker.py
+📁 Stock-Portfolio-Tracker
+├── tracker.py # Main Python script
+├── in_rslt.txt # Output file (auto-generated after program run)
+└── README.md # Documentation
